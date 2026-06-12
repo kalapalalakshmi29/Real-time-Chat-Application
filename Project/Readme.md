@@ -1,6 +1,5 @@
-# CODECRAFT_FSWD_04
 
-## Real-time Chat Application 
+# Real-time Chat Application 
 
 A Flutter-based real-time chat application using WebSocket technology for instant messaging with a beautiful purple/pink color theme.
 
